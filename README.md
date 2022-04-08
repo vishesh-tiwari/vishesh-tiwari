@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishesh-tiwari
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Business Analysis
 - 🌱 I’m currently learning Pyhton and Statistics
-- 💞️ I’m looking to collaborate on data analytics projects
+- 💞️ I’m looking to collaborate on business analysis projects
 - 📫 How to reach me vishesh_tiwari@outlook.com
 
 <!---
