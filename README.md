@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vishesh-tiwari
-- 👀 I’m interested in Business Analysis
-- 🌱 I’m currently learning Pyhton and Statistics
-- 💞️ I’m looking to collaborate on business analysis projects
+- 👀 I’m a data analyst
 - 📫 How to reach me vishesh_tiwari@outlook.com
 
 <!---
