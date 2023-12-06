@@ -4,7 +4,7 @@
  
   ## 🧭 &nbsp;About Me
 
-  - 📚 Business Intelligence Analyst - Indian Statistical Institute
+  - 📚 Data Analyst - Indian Statistical Institute
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
   - 🌱  I’m always studying **Python**, **R**, **Django**, **Pytorch**, **Tensorflow**, **Statistics** and **Business**.
