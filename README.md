@@ -65,5 +65,5 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn](https://img.shields.io/badge/-Vishesh_Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/vishesh-tiwari-kepler22b/)](https://www.https://www.linkedin.com/in/vishesh-tiwari-kepler22b/)&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/-Vishesh_Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishesh-tiwari-kepler22b/)](https://www.linkedin.com/in/vishesh-tiwari-kepler22b/)&nbsp;
   [![Outlook](https://img.shields.io/badge/-vishesh_tiwari@outlook.com-red?style=flat-square&logo=Outlook&logoColor=white)](mailto:vishesh_tiwari@outlook.com)&nbsp;
