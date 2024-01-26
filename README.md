@@ -44,8 +44,10 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
   ![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=flat&logo=grafana)&nbsp;
+  ![Metabase](https://img.shields.io/badge/-Metabase-0D1117?style=flat&logo=metabase)&nbsp;
   ![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=flat&logo=tableau)&nbsp;
   ![Mixpanel](https://img.shields.io/badge/-Mixpanel-0D1117?style=flat&logo=Mixpanel)&nbsp;
+  ![Posthog](https://img.shields.io/badge/-Posthog-0D1117?style=flat&logo=posthog)&nbsp;
   ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
   ![R-Studio](https://img.shields.io/badge/-R-0D1117?style=flat&logo=rstudio)&nbsp;
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
