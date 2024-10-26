@@ -7,7 +7,7 @@
   - 📚 Data Analyst - Indian Statistical Institute
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **Python**, **R**, **Django**, **Pytorch**, **Tensorflow**, **Statistics** and **Business**.
+  - 🌱  I’m always studying **Python**, **Growth**, **Statistics** and **Business**.
 
 </div>
 
