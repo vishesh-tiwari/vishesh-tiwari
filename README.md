@@ -7,7 +7,7 @@
   - 📚 Data Analyst - Indian Statistical Institute
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **Code**, **Growth**, **Statistics** and **Business**.
+  - 🌱  I’m always studying **Data**, **Growth**, **Statistics** and **Business**.
 
 </div>
 
