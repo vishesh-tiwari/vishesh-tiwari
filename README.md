@@ -29,7 +29,9 @@
 
   - Statistics
   - Machine Learning
-  - Clean architecture
+  - Data architecture
+  - ETL
+  - Growth Stories
 
 </div>
 
