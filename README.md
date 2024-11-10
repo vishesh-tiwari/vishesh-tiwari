@@ -58,7 +58,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
-
+  ![Airflow](https://img.shields.io/badge/-Airflow-0D1117?style=flat&logo=Apache-Airflow)
+  ![Snowflake](https://img.shields.io/badge/-Snowflake-0D1117?style=flat&logo=Snowflake)
+  
  <br>
 
 </div>
